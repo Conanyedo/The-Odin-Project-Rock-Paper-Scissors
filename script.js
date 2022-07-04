@@ -64,9 +64,6 @@ btns.forEach((btn) => {
 });
 
 
-
-
-
 // function game()
 // {
 // 	let playerSelection, computerSelection, result;

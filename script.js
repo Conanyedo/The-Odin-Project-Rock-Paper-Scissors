@@ -34,7 +34,6 @@ function playRound(playerSelection, computerSelection)
 		return `You Win! Rock beats Scissors`;
 }
 
-
 let playerScore = 0;
 let computerScore = 0;
 let result = '';
